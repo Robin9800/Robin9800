@@ -1,6 +1,6 @@
-<h1>Hey👋 I'm Robin</h1>
-<h2 align="center">Technology Stacks</h2>
-<p align="center">
+<h1 align="center">Hey👋 I'm Robin</h1>
+<h2 align="left">Technology Stacks</h2>
+<p align="left">
   
   <a href="https://it.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="50" height="50"/>
