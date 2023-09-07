@@ -11,17 +11,13 @@ _<h1 align="center">Hey👋 I'm Robin</h1>
   </a>
 
   <a href="https://www.java.com/" target="_blank">
-  <img src="URL_DEL_ICONA_DI_JAVA" width="50" height="50"/>
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" width="50" height="50"/>
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="URL_DEL_ICONA_DI_TYPESCRIPT" width="50" height="50"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="50" height="50"/>
 </a>
-Assicurati di sostituire "URL_DEL_ICONA_DI_JAVA" e "URL_DEL_ICONA_DI_TYPESCRIPT" con i link alle immagini delle icone che desideri utilizzare per Java e TypeScript. Puoi trovare queste icone su Internet o caricarle su un server e inserire i loro URL nell'HTML sopra. Inoltre, puoi modificare gli URL dei link per puntare alle risorse desiderate per Java e TypeScript.
 
-
-
-    
    <a href="https://www.mysql.com/it/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="50" height="50"/>
   </a>
