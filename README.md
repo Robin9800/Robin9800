@@ -11,7 +11,7 @@ _<h1 align="center">Hey👋 I'm Robin</h1>
   </a>
 
   <a href="https://www.java.com/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" width="50" height="50"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="50" height="50"/>
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank">
